@@ -95,12 +95,12 @@ header {
 }
 
 .social_item:last-child {
-  margin-left: 25px;
+  padding-left: 25px;
 }
 
 .social_item:first-child {
   text-align: right;
-  margin-right: 25px;
+  padding-right: 25px;
 }
 
 .social_wrap img {
