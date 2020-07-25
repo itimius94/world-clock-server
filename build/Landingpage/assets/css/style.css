@@ -59,7 +59,7 @@ header {
   display: flex;
   flex-wrap: wrap;
   position: relative;
-  top: -55px;
+  top: -50px;
 
   padding: 0 10px;
 }
@@ -86,7 +86,7 @@ header {
   display: flex;
   justify-content: center;
   position: relative;
-  top: -44px;
+  top: -47px;
 }
 
 .social_item {
